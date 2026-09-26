@@ -1,0 +1,13 @@
+# Format: barcodeId|namaBarang|kategori|hargaJual|stokGudang
+101|Indomie Goreng Spesial|Makanan|3500|49
+102|Aqua Botol 600ml|Minuman|4000|38
+103|Ultra Milk Cokelat 250ml|Minuman|6500|28
+104|Chitato Sapi Panggang 68g|Makanan|11500|17
+105|Roti Aoka Panggang Cokelat|Makanan|3000|25
+106|Buku Tulis Sinar Dunia 38lbr|ATK|4500|35
+107|Pulpen Standard AE7 Hitam|ATK|3000|45
+108|Kopi Good Day Cappuccino Botol|Minuman|7000|25
+109|Paseo Facial Tissue 50s|Perlengkapan|6000|15
+110|Teh Pucuk Harum 350ml|Minuman|4000|40
+8992761136015|Oreo Vanila Roll 133g|Makanan|9500|15
+8999999001234|Pocari Sweat Can 330ml|Minuman|7500|20
